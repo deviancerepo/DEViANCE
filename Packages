@@ -1,0 +1,14 @@
+Package:com.example.package	 
+Name: Test Package
+Version: 10.25.1-2
+Architecture: iphoneos-arm64
+Description: This is a test package!
+Maintainer: xnucade@gmail.com
+Author: xnucade@gmail.com
+Section: Tweak
+Depends: 
+Filename: 
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
