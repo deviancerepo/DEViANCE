@@ -1,18 +1,3 @@
-Package:icleanerProCracked_7.7.0.deb
-Name: Test Package
-Version: 10.25.1-2
-Architecture: iphoneos-arm64
-Description: Cracked I cleaner Mane
-Maintainer: xnucade@gmail.com
-Author: xnucade@gmail.com
-Section: Tweak
-Depends: 
-Filename: debs/icleaner_7.7.0.deb
-Size: 4574572
-MD5sum: ddde10e6580c49f4fd402d10121d7fc7
-SHA1: 13120A2339EEDCCAA73ED4FF676EC687FB345502
-SHA256: 9A461AD27C4F8974124E55D7C1C1521C51907A33CAB8B5D8E4B8CF0AE20CA0C4
-
 Package:Nebula.deb
 Name: Nebula
 Version: 7.2.3.5
