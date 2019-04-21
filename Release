@@ -1,8 +1,8 @@
-Origin: DEViANCE
-Label: DEViANCE
+Origin: Nrepo
+Label: Nrepo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: DEViANCE
+Description: My Cydia Repository
