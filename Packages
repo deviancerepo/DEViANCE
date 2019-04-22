@@ -31,3 +31,17 @@ Author:  NsBm0d 
 Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.NsB
 Name: NsB
 
+Package: com.hackyouriphone.linktunesios9_2.0-1.deb
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Jonah
+Filename: ./debs//com.hackyouriphone.linktunesios9_2.0-1.deb
+size: 2323456
+MD5sum: 993a6d20315b0e9520786bdaf7af6e68
+SHA1: 563F3BAFF1F207E472FF7A8233001E524BB2330A
+SHA256: CC2735B259777B52457C1CC86837B8E215E6DE9787BCCA3190F586D925437FA1
+Section:aTweaks
+Description:Free music
+Author: Kade
+Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.NsB
+Name: Kade
