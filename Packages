@@ -45,3 +45,22 @@ Description:Free music
 Author: Kade
 Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.NsB
 Name: Kade
+
+
+Package: Nebula.deb
+Version: 1.0.4
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
+Filename: ./debs//Nebula.deb
+Size: 12062
+MD5sum: 16c272cd218bec8ec146fe92b277b257
+SHA1: 60286cc76cf57f313976e1d2c35201608588d681
+SHA256: 4ec4c749dce9e0adea4c0ba824d4c967179b457cccdef338a1c3027d017cc560
+Section: aTweaks
+Priority: required
+Description: Adds setup files, icons and sources to repo
+Author:  NsBm0d 
+Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.Nicon
+Name: Nicon
+Sponsor: http://nrepo.github.io/
